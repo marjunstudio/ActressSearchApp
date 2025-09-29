@@ -1,4 +1,4 @@
-package com.example.actresssearchapp.ui.theme
+package com.actresssearch.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

@@ -1,4 +1,4 @@
-package com.example.actresssearchapp.ui.theme
+package com.actresssearch.ui.theme
 
 import android.app.Activity
 import android.os.Build
